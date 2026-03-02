@@ -51,3 +51,18 @@
 <br>
 
 
+## HW8
+以Component和Port map來實現電路,其特色是移位暫存(PISO; 並列輸入且串列輸出)
+
+![HW8](screenshot/HW8.bmp)
+
+<br>
+
+## HW9
+本作業主要透過撰寫function call之VHDL語法來實現以下電路
+
+![HW9](screenshot/HW9.bmp)
+
+<br>
+
+
