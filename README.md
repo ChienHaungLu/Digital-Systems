@@ -31,13 +31,22 @@
 
 ## HW5
 主要透過VHDL對以下的Moore狀態機計數進行實作
+
 ![HW5](screenshot/HW5.bmp)
 
 <br>
 
 ## HW6
-從電路圖來說,主要是以加法器搭配AND Gate來實作出乘法器,但缺點是發生overflow會有資料遺失(例如:111+111)  
+從電路圖來說,主要是以加法器搭配AND Gate來實作出乘法器,但缺點是發生overflow會有資料遺失(例如:111+111)
+
 ![HW6](screenshot/HW6.bmp)
+
+<br>
+
+## HW7
+以For-Generate實現電路,其特色是串列輸入且並列輸出(SIPO)
+
+![HW7](screenshot/HW7.bmp)
 
 <br>
 
