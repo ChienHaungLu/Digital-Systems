@@ -15,3 +15,7 @@
 - 在送出計算結果之後的連續 8 個週期，將 8 個位元的輸入資料，以反順序由輸出信號 dout 送出，同時在這 8 個週期期間將輸出信號 dout_valid 設定為 1。
 
 ![signal](screenshot/signal.jpg)
+
+## HW3
+主要核心概念在於透過多工器及DEF來實作以下電路  
+![HW3](screenshot/HW3.bmp)
