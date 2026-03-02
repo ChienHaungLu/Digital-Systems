@@ -65,4 +65,7 @@
 
 <br>
 
+## KSA_HW
+本作業是透過VHDL語法來實作Kogge-Stone Adder
+
 
