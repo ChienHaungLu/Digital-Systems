@@ -16,6 +16,19 @@
 
 ![signal](screenshot/signal.jpg)
 
+<br>
+
 ## HW3
 主要核心概念在於透過多工器及DEF來實作以下電路  
 ![HW3](screenshot/HW3.bmp)
+
+<br>
+
+## HW4
+主要以VHDL來實作前瞻進位加法器
+
+<br>
+
+## HW5
+主要透過VHDL對以下的Moore狀態機計數進行實作
+![HW5](screenshot/HW5.bmp)
